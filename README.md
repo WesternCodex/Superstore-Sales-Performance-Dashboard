@@ -1,4 +1,4 @@
-# Retail-Sales-Performance-Dashboard
+# Superstore-Sales-Performance-Dashboard
 
 
 ## Overview
