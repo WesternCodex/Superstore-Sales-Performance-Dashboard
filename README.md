@@ -129,7 +129,7 @@ Based on the analysis, the business should consider:
 ## Project Structure
 
 ```
-Retail-Sales-Dashboard/
+Superstore-Sales-Dashboard/
 │
 ├── Dashboard.pbix
 ├── Dataset.xlsx
