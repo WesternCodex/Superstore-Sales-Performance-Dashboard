@@ -139,7 +139,6 @@ Superstore-Sales-Dashboard/
     ├── Product Analysis.png
     └── Orders & Shipment.png
 ├── README.md
-└── Insights.pdf
 ```
 
 ---
