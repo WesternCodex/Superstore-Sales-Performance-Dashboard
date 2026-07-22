@@ -156,6 +156,6 @@ If you found this project useful, feel free to give it a star on GitHub.
 
 **Chukwudi Onwusa**
 
-- Data Analyst | Power BI | SQL | Python
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- Data Analyst • Excel | Power BI | Python | SQL
+- GitHub: https://github.com/WesternCodex
+- LinkedIn: https://www.linkedin.com/in/chukwudi-onwusa-b570a7279
